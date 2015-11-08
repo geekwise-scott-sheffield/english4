@@ -1,0 +1,50 @@
+    body{
+        width:99%;
+        height:100vh;
+        background-color:steelBlue;
+    }
+    
+    li{
+		list-style-type:none;
+	}
+	
+	.book{
+	    
+		display:inline;
+	}
+	
+	.center{
+		text-align:center;
+	}
+	
+	#powerpoint{
+		text-align:center;
+		height:5%;
+		width:20%;
+	}
+	
+	h1{
+	    font-size:500%;
+	}
+	
+	p{
+	    font-size:200%;
+	}
+	
+	button{
+		font-size:140%;
+	    background-color:#99CC99;
+	}
+	
+	#works_cited{
+		text-align:center;
+	}
+	
+	#space{
+	    height:30%;
+	}
+	
+	#bottom{
+	    text-align:right;
+	    float:bottom;
+	}
